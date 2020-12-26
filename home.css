@@ -1,0 +1,41 @@
+#nav{
+    background-color: darkorange;
+}
+#logo{
+    height: 80px;
+    float: right;
+    width: 90px;
+    border-radius: 20%;
+}
+#body{
+    background-color: black;
+}
+#contact{
+    color: darkorange;
+    text-align: center;
+    word-spacing: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#map img{
+    width: 650px;
+    height: 400px;
+    float: left;
+}
+#map h2{
+    float: left;
+}
+#face{
+    font-size: 60px;
+    color: blue;
+    font-weight: 100px;
+}
+#insta{
+    font-size: 60px;
+    color: rgb(247, 0, 255);
+    font-weight: 100px;
+}
+#call{
+    font-size: 60px;
+    color: green;
+    font-weight: 100px; 
+}
